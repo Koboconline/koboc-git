@@ -5,4 +5,4 @@ Hello git hub
 
 ## i love it to use
 
-update some partical
+update some partical git hub
